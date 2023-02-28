@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YoLhQRZu6pvF4iR2ADGvXTDbIz5CYsKFff43TT3IvQA=",
+  "Source": "web_api5",
+  "BasePath": "_content/web_api5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

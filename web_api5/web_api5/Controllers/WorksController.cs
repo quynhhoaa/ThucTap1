@@ -117,5 +117,14 @@ namespace web_api5.Controllers
         {
             return _context.Works.Any(e => e.ID == id);
         }
+        [HttpGet]
+        [Route("Status")]
+
+        public IActionResult GetUserByName(string status)
+        {
+            var user = _context.Works.Where(x => x.Status=="hoan thanh" || x.Status=="chua hoan thanh");
+
+            return Ok(user);
+        }
     }
 }

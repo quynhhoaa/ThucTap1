@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ad9foiQ54I/CjAMUyrDL4x75jpPBVbla9769wdRMoxeGYPh+/z1lI4Qk7C+UKLbgxCWSJU1RdOhbXLEPcPb/rQ==",
+  "dgSpecHash": "hcH0ABw74xtbumXbR4p0Qu4/zSoUQeEjzpyashJPv7c3y0/alRWNcvEcngsereBZgooMk2OZMut+oo/YTcRrWA==",
   "success": true,
-  "projectFilePath": "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\web_api5.csproj",
+  "projectFilePath": "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\web_api5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quynh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\quynh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\web_api5.csproj": {}
+    "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\web_api5.csproj": {}
   },
   "projects": {
-    "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\web_api5.csproj": {
+    "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\web_api5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\web_api5.csproj",
+        "projectUniqueName": "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\web_api5.csproj",
         "projectName": "web_api5",
-        "projectPath": "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\web_api5.csproj",
+        "projectPath": "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\web_api5.csproj",
         "packagesPath": "C:\\Users\\quynh\\.nuget\\packages\\",
-        "outputPath": "E:\\Thuctap\\ThucTap2\\web_api5\\web_api5\\obj\\",
+        "outputPath": "E:\\Thuctap\\ToDoList\\ThucTap1\\web_api5\\web_api5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
